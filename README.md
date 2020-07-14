@@ -19,7 +19,7 @@ Hi! 👋 My Ultimate dream is to contribute for the human race. my role-model is
 * 2019.03.29 [한국정보기술연구원] 차세대 보안 양성 프로그램 7기 BEST10 인증서 - 과학기술정보통신부 장관증서
 * 2018.11.17 [VolatilityFoundation] Volatility Analysis Contest - 2nd
 
-# 📫 How to reach me: ...
+# 📫 How to reach me
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/roytravel97)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:roytravel97@gmail.com)
 
