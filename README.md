@@ -1,7 +1,6 @@
 # Haneol, Lee -- @roytravel
 
-Hi! 👋 My Ultimate dream is to contribute for the human race.<br>
-my role-model is Elon Musk and I want to be like a him. <br>I need who be with me. <br>contact me if you have interested in helping for people and all the earth.
+Hi! 👋<br> My ultimate dream is to contribute for the human race. my role model is Elon Musk and I want to be like a him. <br> I study for saving people who are in need and don't  have equal opportunities for education and who have illness but can't afford treatment. I just want to contribute on world society and community. I need someone to be with me. Don't hesitate<br>contact me if you have interested in helping for people and all the earth.
 
 # 🔭 Interests
 * Computer Science
@@ -22,7 +21,7 @@ my role-model is Elon Musk and I want to be like a him. <br>I need who be with m
 * 2018.11.17 [VolatilityFoundation] Volatility Analysis Contest
 
 # 📫 How to reach me
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/roytravel97)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/roytravel97)](https://www.facebook.com/roytravel97)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:roytravel97@gmail.com)
 
        
