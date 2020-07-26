@@ -1,17 +1,14 @@
-# Haneol, Lee -- @roytravel
+# Haneol, Lee @roytravel
 
 Hi! 👋<br> My ultimate dream is to contribute for the human race. my role model is Elon Musk and I want to be like a him. <br> I study for saving people who are in need and don't  have equal opportunities for education and who have illness but can't afford treatment. I just want to contribute on world society and community. I need someone to be with me. Don't hesitate contact me if you have interested in helping for people and all the earth.
 
 # 🔭 Interests
-* Computer Science
-* Business
-* Physics
-* Cosmos
-* Religion
-* Brain
+* Computer Science, Business, Physics, Cosmos, Religion, Brain
 
 # 🌱 I’m currently learning
-* Artificial Intelligence (Computer Vision, Deep Learning, Machine Learning)
+* Computer Vision
+* Adversarial Machine Learning
+* Exploitation of Neural Network
 
 # ⚡ Prize
 * 2020.02.29 [NEWSECU] NEWSECU CTF
