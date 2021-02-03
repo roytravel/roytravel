@@ -1,12 +1,9 @@
 # Haneol, Lee @roytravel
 
 # 🔭 Interests
-* Computer Science, Business, Physics, Cosmos, Religion, Brain
-
-# 🌱 I’m currently learning
 * Computer Vision
-* Adversarial Machine Learning
-* Exploitation of Neural Network
+* Natural Language Processing
+
 
 # 📫 How to reach me
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/roytravel97)](https://www.facebook.com/roytravel97)
