@@ -8,7 +8,6 @@
 # 📫 How to reach me
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/roytravel97)](https://www.facebook.com/roytravel97)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:roytravel97@gmail.com)
- [![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/haneol-lee-6a764319b/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haneol-lee-6a764319b/)](https://www.linkedin.com/in/haneol-lee-6a764319b/)
 <!--
 **roytravel/roytravel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
