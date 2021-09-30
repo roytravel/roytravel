@@ -1,8 +1,12 @@
 # Haneol, Lee @roytravel
 
-Hi there! I'm research in AI. I'm Interested In other 
+Hi, My dream is to live for the growth of humanity.
 
-# 🔭 Interests
+I live for helping people who are in need and don't have equal education opportunities and who have an illness but can't afford treatment.
+
+I will run a business. my hobby is to reading books. I'm skill at badminton.
+
+# 🔭 Research Area
 * Natural Language Processing
 * Computer Vision
 * Signal Processing
