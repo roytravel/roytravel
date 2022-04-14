@@ -1,5 +1,5 @@
 # Haneol, Lee @roytravel
-"Let's make the world better" is my moto. my goal is to contribute to world's improvement as an engineer. I have interested in overall AI such as natural language processing, signal processing, and computer vision.
+"Let's make a better world" is my moto. my goal is to contribute to world's improvement as an engineer. I have interested in overall AI such as natural language processing, signal processing, and computer vision.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roytravel&show_icons=true&theme=default)
 
